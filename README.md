@@ -3,6 +3,8 @@
 
 Taught in March 2024 at the Max Planck Institute of Biological Intelligence.
 
+Copy
+
 Teachers:
   - Dr. Sangeetha Nandakumar, iBehave Open Technology Support
   - Dr. Nicholas Del Grosso, iBehave Open Technology Support
